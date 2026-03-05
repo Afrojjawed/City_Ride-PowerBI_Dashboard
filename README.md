@@ -55,10 +55,13 @@ rideBookings.csv
 
 ## Download Power BI File
 
-The Power BI dashboard file (.pbix) is available for download from the link below.
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted on Google Drive.
 
-Download PBIX File:
-https://drive.google.com/file/d/1yBxe9sGg6O32WIQgABkU4hb2lH3BmYqq/view?usp=drive_link
+Download the dashboard file here:
+
+🔗 https://drive.google.com/file/d/1yBxe9sGg6O32WIQgABkU4hb2lH3BmYqq/view?usp=drive_link
+
+You can download the file and open it using Power BI Desktop to explore the interactive dashboard.
 
 ## Dashboard Screenshots
 

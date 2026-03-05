@@ -56,7 +56,7 @@ rideBookings.csv
 ## Dashboard Screenshots
 
 ### HomePage Dashboard
-![HomePage](Homepage.png)
+![HomePage](HomePage.png)
 
 ### Overview Dashboard
 ![Overview](Overallview.png)

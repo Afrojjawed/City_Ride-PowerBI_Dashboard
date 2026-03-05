@@ -53,6 +53,13 @@ The dataset contains ride booking records including:
 Dataset File:
 rideBookings.csv
 
+## Download Power BI File
+
+The Power BI dashboard file (.pbix) is available for download from the link below.
+
+Download PBIX File:
+https://drive.google.com/file/d/1yBxe9sGg6O32WIQgABkU4hb2lH3BmYqq/view?usp=drive_link
+
 ## Dashboard Screenshots
 
 ### HomePage Dashboard

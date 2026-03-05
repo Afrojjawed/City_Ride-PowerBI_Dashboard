@@ -52,3 +52,32 @@ The dataset contains ride booking records including:
 
 Dataset File:
 rideBookings.csv
+
+## Dashboard Screenshots
+
+### HomePage Dashboard
+![HomePage](Homepage.png)
+
+### Overview Dashboard
+![Overview](Overallview.png)
+
+### Vehicle Performance
+![Vehicle](Vehicle.png)
+
+### Revenue Analysis
+![Revenue](Revenue.png)
+
+### Cancellation Analysis
+![Cancellation](Cancellation.png)
+
+### Rating Insights
+![Rating](Rating.png)
+
+### Summary Dashboard
+![Summary](Summary.png)
+
+
+
+
+
+
